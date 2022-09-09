@@ -1,0 +1,128 @@
+ <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <div class="container-fluid">
+          <a class="navbar-brand" href="#"><img src="https://impormedical.com.co/images/assests/IM/Logo_Impormedical_Horizontal.png" alt="">
+            Impormedical</a>
+          <form class="d-flex">
+            <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+          <button class="btn btn-outline-success" type="submit">Search</button>
+          </form>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+              <li class="nav-item">
+                <a class="nav-link active" aria-current="page" href="#">MIS PEDIDOS</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link active" href="#"><p>HOLA ALIAD@</p>INGRESAR</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link active" href="#" tabindex="-1" aria-disabled="true"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHoAAAB6CAMAAABHh7fWAAAAYFBMVEX///8AAACkpKSVlZWMjIxfX1/Pz8/e3t5ISEihoaFsbGzn5+f09PTKysoXFxc1NTVBQUHV1dUpKSkgICDt7e2qqqq/v793d3eysrJNTU08PDxYWFh+fn4NDQ1nZ2cbGxsmkSxLAAAEoElEQVRoge1aa7OiMAzl6RNFoXjlqvj//+XuDkkRSEobqM7OeD7da0sPJW16kjQIvvjiC2/Yj/Ee4qo4jlEmb2C+hDR+/FOfGOpQeafmmMOrd+qao757p16x0/ZOHRzSvI9foH7HDsv6wJVXvYF6iPht22sE2OrlB6gzMPb6A9yblnr7AeptS737ADXs9TJ7P3VWtNzn91MHt5Y6/gB11FKnH6A+g7HjyBdYW2box/3hxnHvvFOzC+nqn5rz02v/1EfO2KxkWwysr/RvbFYOgLEfcUIDtsCOaAJ/VDNPJkDNbi8F1Jwkhq+yIprAH3ErGHwGZ+pAH5ycJAbqA9G0NVPDrA2eEnpwklhOfZswdRcQLU2tHhOm7lQSI4nF1Ie2NeeZg+DX+GHE1HfYGiZqMDYjicXUEGhdTNQX4yaQUq/B1Ga1azS2lBomtDEyY/xDS2Ip9Y/RjAiIf/ImJQDCsSaa4JVz6rHmaWFqvQ28YCKKzY7emFl1hGATDrMxmZ+KvFFTq7MHPtcxF5MRVZZ7Yp40dRCkbc/deTXEGY6+iGgCL30nmmD1WKQiq7ZnTTTJVErIPzUAxj/ELhR5MxjPJi2GkpjwPSLqrbWpNQFhGxF107ZYJUpAEv8uQ43CxypjsG/7HsfGllA7mPrve244Y0uo4Si0TBjgHl2EGtyEZQKUVUmCfa1cTN11X6372MMMrusR9qAnk/2gAaZR2DEb6hNiNLbUyfRYjrAubHAFITnsk75LM5+smYOl01gOCf54YeoJGfwKNPamh7psf/3djFCDtinq3s+CYg5TEnD2ZjCF2iXRTcc/ztTwgFPhDkYaeAJn6if/AAuIf8p+LsmVGg9MpyItXRJwpQaFaaWNOqTUUK7UoI0cK/IR9cKu1KHA1NpMRc9MjtSYaXZj1iWBnixwpJaZmraTo0qB9eJcLwRJnFdbjQgczT3aDlHBW6Wv3UNql1gAJPECcGVeriTgbGqdcZoNwT2Apeo/FsHtENn0qDYwZoM5LJJCe8puAagonovrB6rh/z/WVZIkV1tpd3bqbYLSUVARTxtO3fXKnn3Vo6/Ip4brB2uzbpBl6WCvGAsn6jboPeMKGeHHDdGqGveWX3JpCB/BC63hF/oH6XWPihiLj5/oOM1RlyH085u4igv850Sv887lb7bRS28RM6qMspUZOt6np42TLtre+twTTRuSyQ+cJRbK6BQYRKEF9sbIQ7LSMI/UTRJsn1NfXGed9C/wGSR3586jR1UbvT2ocxBO2Jck1dQVAAMu4897G86sA3yR18wFbHPBgX0dD9bw1IQOh7UiuER2GO0OzNtSg8GLvshPDFYFs8aIqTv+DKUJIve8GmwQB2TlcHeAp6RrwUDdnRi30VezBx69MfN/H+jvI/gfZbzo2MZvGKarLMsuuthJG0/r1+Zvb3WBZUHVEmzQHb/P/KH/5g7hE9lbeMdfhQRKzkWQV8YKqRimggB+r1CRkvwa8Hg0UwQ1Ot8fgnhL41D2xsrNszj0S/75PEWs7s/OzMmU5dRPt8BstPME9tWteB6fRXq1OYOwd2PV2wJq7zKQW+8vvvhiEfwBTkVABaWklgYAAAAASUVORK5CYII="></img>CARRITO</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </nav>
+      <nav class="navbar navbar-light bg-light">
+        <div class="container-fluid">
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarToggleExternalContent" aria-controls="navbarToggleExternalContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+            <li class="nav-item">
+              <a class="nav-link active" aria-current="page" href="#">MOVILIDAD</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link active" aria-current="page" href="#">CUIDADO DEL HOGAR</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link active" href="#">PROFESIONALES DE LA SALUD</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link active" href="#" tabindex="-1" aria-disabled="true">TAPABOCAS Y DESINFECCIÓN</a>
+            </li>
+          </ul>
+        </div>
+      </nav> 
+
+
+
+  <div class="carousel-item active">
+        <img src="imgs/banner.jpg" class="d-block w-100" alt="...">
+        <div class="text-banner">
+          <button class="btn btn-primary active"><h3>VER PRODUCTOS</h2></button>
+        </div>
+      </div>
+
+
+  ----------------------------------------------------->
+  CARRUSEL--------->
+   <div class="carrusel">
+      <div class="cards">
+        <div class="card">
+          <img src="https://img.freepik.com/foto-gratis/mujer-mayor-su-cuidadora-al-aire-libre_1098-2987.jpg?w=740&t=st=1662650387~exp=1662650987~hmac=e3aa4e694c9ddbad2783c407795b621e63c178bd0cb15c4db10717ead4cb9959" class="card-img-top" alt="...">
+        </div>
+        <div class="card">
+          <img src="https://img.freepik.com/foto-gratis/mujer-mayor-su-cuidadora-al-aire-libre_1098-2987.jpg?w=740&t=st=1662650387~exp=1662650987~hmac=e3aa4e694c9ddbad2783c407795b621e63c178bd0cb15c4db10717ead4cb9959" class="card-img-top" alt="...">-->>
+        </div>
+        <div class="card">
+          <img src="https://img.freepik.com/foto-gratis/mujer-mayor-su-cuidadora-al-aire-libre_1098-2987.jpg?w=740&t=st=1662650387~exp=1662650987~hmac=e3aa4e694c9ddbad2783c407795b621e63c178bd0cb15c4db10717ead4cb9959" class="card-img-top" alt="...">-->>
+        </div>
+        <div class="card">
+          <img src="https://img.freepik.com/foto-gratis/mujer-mayor-su-cuidadora-al-aire-libre_1098-2987.jpg?w=740&t=st=1662650387~exp=1662650987~hmac=e3aa4e694c9ddbad2783c407795b621e63c178bd0cb15c4db10717ead4cb9959" class="card-img-top" alt="...">-->>
+        </div>
+        <div class="card">
+          <img src="https://img.freepik.com/foto-gratis/mujer-mayor-su-cuidadora-al-aire-libre_1098-2987.jpg?w=740&t=st=1662650387~exp=1662650987~hmac=e3aa4e694c9ddbad2783c407795b621e63c178bd0cb15c4db10717ead4cb9959" class="card-img-top" alt="...">
+        </div>
+        <div class="card">
+          <img src="https://img.freepik.com/foto-gratis/mujer-mayor-su-cuidadora-al-aire-libre_1098-2987.jpg?w=740&t=st=1662650387~exp=1662650987~hmac=e3aa4e694c9ddbad2783c407795b621e63c178bd0cb15c4db10717ead4cb9959" class="card-img-top" alt="...">
+        </div>
+        <div class="card">
+          <img src="https://img.freepik.com/foto-gratis/mujer-mayor-su-cuidadora-al-aire-libre_1098-2987.jpg?w=740&t=st=1662650387~exp=1662650987~hmac=e3aa4e694c9ddbad2783c407795b621e63c178bd0cb15c4db10717ead4cb9959" class="card-img-top" alt="...">
+        </div>
+        <div class="card">
+          <img src="https://img.freepik.com/foto-gratis/mujer-mayor-su-cuidadora-al-aire-libre_1098-2987.jpg?w=740&t=st=1662650387~exp=1662650987~hmac=e3aa4e694c9ddbad2783c407795b621e63c178bd0cb15c4db10717ead4cb9959" class="card-img-top" alt="...">
+        </div>
+        <div class="card">
+          <img src="https://img.freepik.com/foto-gratis/mujer-mayor-su-cuidadora-al-aire-libre_1098-2987.jpg?w=740&t=st=1662650387~exp=1662650987~hmac=e3aa4e694c9ddbad2783c407795b621e63c178bd0cb15c4db10717ead4cb9959" class="card-img-top" alt="...">
+        </div>
+        <div class="card">
+          <img src="https://img.freepik.com/foto-gratis/mujer-mayor-su-cuidadora-al-aire-libre_1098-2987.jpg?w=740&t=st=1662650387~exp=1662650987~hmac=e3aa4e694c9ddbad2783c407795b621e63c178bd0cb15c4db10717ead4cb9959" class="card-img-top" alt="...">
+        </div>
+        <div class="card">
+          <img src="https://img.freepik.com/foto-gratis/mujer-mayor-su-cuidadora-al-aire-libre_1098-2987.jpg?w=740&t=st=1662650387~exp=1662650987~hmac=e3aa4e694c9ddbad2783c407795b621e63c178bd0cb15c4db10717ead4cb9959" class="card-img-top" alt="...">
+        </div>
+      </div>
+    </div>
+  ---------------------------->
+
+  CARDS COLLECTIONS---------->
+  <div class="cont">
+        <h3 class="h3">NUEVA COLECCIÓN</h3>
+        <div class="card-coll">
+          <div class="img"><img src="https://st.depositphotos.com/1669785/3717/i/450/depositphotos_37179007-stock-photo-wheelchair-on-white.jpg" width="300px" alt=""></div>
+          <div class="p">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora, ratione molestiae?</div>
+          <div class="bnt"><input type="submit" value="Añadir al carrito"></div>
+        </div>
+        <div class="card-coll">
+          <img src="https://st.depositphotos.com/1669785/3717/i/450/depositphotos_37179007-stock-photo-wheelchair-on-white.jpg" width="300px" alt="">
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora, ratione molestiae?</p>
+          <input type="submit" value="Añadir al carrito">
+        </div>
+        <div class="card-coll">
+          <img src="https://st.depositphotos.com/1669785/3717/i/450/depositphotos_37179007-stock-photo-wheelchair-on-white.jpg" width="300px" alt="">
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora, ratione molestiae?</p>
+          <input type="submit" value="Añadir al carrito">
+        </div>
+        <div class="card-coll">
+          <img src="https://st.depositphotos.com/1669785/3717/i/450/depositphotos_37179007-stock-photo-wheelchair-on-white.jpg" width="300px" alt="">
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora, ratione molestiae?</p>
+          <input type="submit" value="Añadir al carrito">
+        </div>
+
+    </div>
+------------------------------------>
+
+
